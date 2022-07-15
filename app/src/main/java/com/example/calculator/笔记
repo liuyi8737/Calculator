@@ -1,0 +1,23 @@
+Layout_gravity:设置子控件在父容器中的摆放方式
+gravity 设置自己摆放位置
+
+
+
+
+gradient:渐变色
+
+
+
+
+
+4、如何给所有的按钮添加点击事件
+   1、  divideBtn.setOnClickListener {
+                 operationBtnClicked(it)
+
+             }
+             multiplyBtn.setOnClickListener {
+                 operationBtnClicked(it)
+
+             }
+
+
