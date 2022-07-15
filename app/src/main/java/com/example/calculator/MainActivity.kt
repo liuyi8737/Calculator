@@ -15,6 +15,10 @@ class MainActivity : AppCompatActivity() {
     var details = StringBuilder()
     var currentOperation:String? = null//记录当前运算符
 
+    /**
+     * 新东西
+     */
+
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
